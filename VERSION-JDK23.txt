@@ -1,0 +1,9 @@
+Compatible avec ton environnement actuel:
+- Maven 3.9.9
+- Java 23.0.1
+- macOS x86_64
+
+Lancer backend:
+cd payment-backend
+mvn clean compile
+mvn spring-boot:run

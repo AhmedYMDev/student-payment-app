@@ -1,0 +1,4 @@
+.layout { height: calc(100vh - 64px); }
+.drawer { width: 240px; }
+.content { padding: 0; }
+mat-icon { margin-right: 10px; }
